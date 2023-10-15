@@ -1,22 +1,90 @@
-- [Worldbuilding](#worldbuilding)
+- [Eldoria](#eldoria)
+  - [Magic](#magic)
   - [Locations](#locations)
+    - [Lornridge](#lornridge)
+      - [Geography](#geography)
+      - [Demographics](#demographics)
+      - [Culture and Life](#culture-and-life)
+      - [Local Factions](#local-factions)
   - [Factions](#factions)
-  - [People](#people)
+    - [Kingdom of Wychmoor](#kingdom-of-wychmoor)
+      - [Geography](#geography-1)
+      - [The White Sovereign](#the-white-sovereign)
+      - [Military Power](#military-power)
+      - [Economy \& Industry](#economy--industry)
+  - [Relevant Characters](#relevant-characters)
     - [Lydia Anderton](#lydia-anderton)
     - [Eleanor "Ellie" Ravenscroft](#eleanor-ellie-ravenscroft)
     - [Gregor Thorne](#gregor-thorne)
+    - [Alistair Martin](#alistair-martin)
+    - [Caleb Hawthorne](#caleb-hawthorne)
 
 
-# Worldbuilding
+# Eldoria
+
+## Magic
+
+The magic of the world of Eldoria
+
 ## Locations
 
-Temp
+### Lornridge
+
+#### Geography
+
+Lornridge is nestled on the eastern coast of the Great Continent, within the Kingdom of Wychmoor, overlooking the Azure Sea. It is situated on a sloped hill, surrounded by imposing cliffs, causing it's inhabitants to build vertically. It is a coastal town with a reliance on the fishing industry. It is a crucial hub for maritime commerce in the local region.
+
+#### Demographics
+
+Lornridge has a population of approximately 40,000 residents. The population is a diverse blend of natives and travelers, who are attracted by the town's enigmatic aura. Over time, the Seekers of Ry'leh will become a significant presence, with up to 1000 members, and most of the town's population as sympathizers.
+
+#### Culture and Life
+
+The town of Lornridge boasts a culture and architectural style reminiscent of Victorian England, replete with cobblestone streets, the warm glow of gas lamps, and intricately adorned facades. Nestled within the embrace of steep cliffs, Lornridge has developed into a vertical and compact town, a maze of narrow streets, archways, tunnels, and hidden corners, both above and below ground. The town's history, originally a humble fishing village, is evident in its layers of construction, with each generation building atop and below the previous. A sense of mystery shrouds Lornridge, as stories circulate of clandestine tunnels and concealed passages, and a portion of the town is even hewn into the cliffside.
+
+As the heartbeat of Lornridge, the fishing industry has deeply influenced its customs and traditions. Festivals and rituals dedicated to safe voyages and bountiful catches are an integral part of life. One such cherished event is the annual Blessing of the Nets, during which townsfolk gather at the harbor to offer prayers for fruitful hauls.
+
+Lornridge pulses with a vibrant music scene, where folk songs and sea shanties take center stage. These melodious tales celebrate the lives of fishermen, the majesty of the sea, and the strength of the community. Local taverns often host musicians and storytellers, and special occasions are marked by townwide gatherings filled with the resonant notes of these melodies.
+
+At the heart of Lornridge lies a bustling marketplace, a focal point for traders who converge from near and far to exchange their wares. This vibrant hub is encircled by towering structures, with the grand church looming in the distance. Here, the air is alive with the energetic cadence of haggling and bartering.
+
+Another marketplace lies hidden below the surface, in several large chambers in the lower levels of the town. The tunnels that lead to it are concealed and guarded, and connections are required to enter. It is a black market, where goods restricted by the Church or the Kingdom are traded. 
+
+#### Local Factions
+
+Lornridge plays host to several influential factions, each shaping the town's character.
+
+**The Church**: The Church wields considerable power in Lornridge, albeit with an uncompromising approach. While its followers are treated benevolently, the Church displays an utter lack of tolerance for differing beliefs or faiths. Lornridge maintains a modest contingent of Inquisitors, who, like their counterparts in major towns, are charged with ferreting out heresy through often ruthless methods. The town is dotted with several churches, the grandest among them being the Cathedral of St. Cuthbert. The Church also holds sway over the majority of educational institutions in Lornridge, and its teachings are widely embraced by the populace.
+
+**The Scholarium Magnus**: The Scholarium Magnus boasts a modest presence in Lornridge, with close affiliations to the town's sole college, sponsored by the Kingdom of Wychmoor. An invitation to join the Scholarium Magnus is reserved for the most gifted students and is esteemed as a profound honor.
+
+**The Kingdom**: Lornridge operates as an extension of the Kingdom, housing a limited garrison of soldiers assigned to uphold order and safeguard the town. Additionally, a small naval base near Lornridge serves as a vital supply hub. The town houses the usual apparatus of government, including the mayor's office and the tax collection agency, to manage local affairs.
 
 ## Factions
 
-Temp
+### Kingdom of Wychmoor
 
-## People
+#### Geography
+Nestled as the northernmost realm on the Great Continent, the Kingdom of Wychmoor boasts a captivating and diverse terrain. Rugged coastlines, lush forests, fertile plains, and imposing mountain ranges define its geography. Steep cliffs guard treacherous coastlines, shaping the kingdom's relationship with the sea.
+
+#### The White Sovereign
+At the helm of Wychmoor stands the enigmatic King Alaric Thorne, revered by many as the White Sovereign. His reputation extends beyond mere royalty, as he is also blessed with the gift of magic. The White Sovereign possesses healing magics, and wears a white-and-gold cloak as he heals the sick and wounded. He is also a competent ruler, bringing great prosperity to the Kingdom with his decrees, and is well-loved by his subjects.
+
+Outwardly, King Alaric is a pious and conservative ruler. He holds steadfast to the Church, and the Church, in return, has lent unwavering support to his rule. This religious institution has backed his throne. But beneath the facade of devotion lies a secret ambition. The White Sovereign yearns for a Wychmoor that is independent from the Church's clutches. Privately, he believes that the kingdom can thrive without the oppressive religious hierarchy, as it's doctrines have stifled the kingdom's technological and magical progress. He is not against the religion itself, but believes that the Kingdom is overreliant on the Church and its doctrines are too restrictive. 
+
+#### Military Power
+
+Wychmoor's military, while substantial, has witnessed a decline over the years due to increased reliance on the Church's Paladins and Inquisitors for maintaining order. 
+
+However, the Wychmoor Expeditionary Corps stands as an elite group dedicated to exploring the enigmatic Far North. Their mission is to uncover magical artifacts and mysterious creatures that could empower the kingdom and hopefully, one day, allow them to break free from the Church's grasp. The Corps has a high attrition rate due to the dangers of the untamed Far North, but those who survive are rewarded handsomely. 
+
+The Kingdom also possesses a small group of mages, the Royal Magi, few compared to the mages of other powers, but they are highly skilled and powerful. A strategic resource, they are rarely deployed in combat, but can turn the tide of battle when they are. They are also used to train the Wychmoor Expeditionary Corps, and are often deployed alongside them. The Scholarium Magnus has a presence in the Kingdom, and the Kingdom offers great rewards to hopefully entice the elite mages of the Scholarium to stay, train their own mages, and hopefully join the Royal Magi.
+
+#### Economy & Industry
+
+The kingdom's economy thrives on a rich tapestry of industries. Although its coastline features treacherous cliffs, Wychmoor maintains a fishing industry, albeit on a smaller scale. The agriculture and trade sectors constitute the backbone of the economy, with vast herds of livestock providing sustenance and tradeable animal products. Scattered mines in the northern regions yield vital metals and minerals used for both military and construction purposes. A burgeoning textile industry utilizes abundant wool from local livestock and cotton from the southern reaches, contributing to the kingdom's wealth.
+
+## Relevant Characters
 
 ### Lydia Anderton
 
@@ -52,3 +120,22 @@ Ellie's quiet nature masks a deep curiosity about the unknown. She believes that
 
 **Weakness**: His stubbornness about the sailor's tales can lead to conflicts with others. His straightforwardness can also lead to him being tactless at times.
 
+### Alistair Martin
+
+**Background**: A grizzled veteran of the Wychmoor Expeditionary Corps, who survived multiple expeditions to the Far North, despite the high casualty rates of such expeditions. He holds deep-seated trauma from several encounters with magical beasts in the Far North, which inflicted heavy casualties to his squad. He retired from the army as a wealthy man, but he is unable to relax and enjoy life due to his PTSD.
+
+**Motivation**: Alistair has a strong desire for power, so that he would not be helpless against powerful forces again. Since he is unable to wield magic, and clearly physical strength was not enough, as proven during the expeditions, he believes that only the eldritch can grant him the power he seeks. He also hopes that the eldritch will help him overcome his PTSD (he doesn't actually call it PTSD, but the world generally knows it as some sort of battle trauma). He also sees the cult members as his new squad, and wants to protect them from harm.
+
+**Strengths**: His combat experience and leadership skills make him the leader of combat situations, and later the commander once more people join the cult. His wealth accrued from military service also help fund the cult's activities.
+
+**Weaknesses**: His PTSD manifests in bouts of intense aggression and paranoia, which can lead to incidents if reminded of his past. He is also overprotective of his cult members, not wanting to see them suffer the same fate as his squad. This can lead to him being unreasonable at times.
+
+### Caleb Hawthorne
+
+**Background**: Caleb is a talented carpenter and woodworker, known for his intricate carvings and detailing on his work. As with most people in this world, he inherited his trade from his family. He often has his head in the clouds, daydreaming about potential projects and ideas.
+
+**Motivation**: Caleb is motivated by a desire to create. He is fascinated by the eldritch and its powers of creation. He also believes that beauty can be found in the most unexpected places, like the eldritch. He was inspired by the strange phenomena he's observed in Lornridge. 
+
+**Strengths**: Caleb's skills allow him to become the group's main craftsman. His ability to see beauty in the eldritch also helps the group to see the eldritch in a more positive light.
+
+**Weaknesses**: His daydreaming can lead to him being absent-minded at times. He is also easily distracted by new ideas and projects, which can lead to him neglecting his current work. His obsession with aesthetics can also blind him to the dangers of the eldritch.

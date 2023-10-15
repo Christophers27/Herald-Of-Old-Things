@@ -28,7 +28,7 @@ After wandering the town for several days, changing faces and stealing food to s
 
 - The town is a large town near the sea, with a population of around 40,000 people.
     - The economy is mainly supported by the fishing industry and related businesses.
-    - The technology and culture is comparable to Victorian England, although this is a less advanced rural town, compared to the capital of the Kingdom Lornridge is in.
+    - The technology and culture is comparable to Victorian England, although this is a less advanced rural town, compared to the capital of the Kingdom of Wychmoor that Lornridge is in.
 - There is one dominant religion in the entire Kingdom of Wychmoor, known simply as the Church.
     - The church is a major power of the continent, with great influence over Wychmoor and several other nations.
     - It is a harsh and intolerant religion, with crusaders often going to war against other religions and nations to spread their own, and inquisitors roaming the larger towns and cities to root out and burn heretics at the stake.
