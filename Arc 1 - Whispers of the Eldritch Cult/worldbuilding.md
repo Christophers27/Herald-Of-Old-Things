@@ -1,5 +1,10 @@
 - [Eldoria](#eldoria)
   - [Magic](#magic)
+    - [Rarity of Magic](#rarity-of-magic)
+    - [Mana and Mages](#mana-and-mages)
+    - [Spellcasting](#spellcasting)
+    - [Mana in the Environment](#mana-in-the-environment)
+    - [Ancient History of Magic](#ancient-history-of-magic)
   - [Locations](#locations)
     - [Lornridge](#lornridge)
       - [Geography](#geography)
@@ -12,6 +17,9 @@
       - [The White Sovereign](#the-white-sovereign)
       - [Military Power](#military-power)
       - [Economy \& Industry](#economy--industry)
+    - [Ecclesia of Divine Light](#ecclesia-of-divine-light)
+      - [Core Beliefs](#core-beliefs)
+      - [Organizational Structure](#organizational-structure)
   - [Relevant Characters](#relevant-characters)
     - [Lydia Anderton](#lydia-anderton)
     - [Eleanor "Ellie" Ravenscroft](#eleanor-ellie-ravenscroft)
@@ -24,7 +32,39 @@
 
 ## Magic
 
-The magic of the world of Eldoria
+### Rarity of Magic
+
+In Eldoria, the ability to wield magic is an incredibly rare gift. Approximately 1 in 1000 people are born with this gift, and they are referred to as mages. Mages have the innate ability to manipulate an arcane energy known as mana, allowing them to cast spells.
+
+### Mana and Mages
+
+- **Mana**: The common term for the arcane energy that mages manipulate. It is an intangible energy that permeates the world
+- **Mana Generation**: A mage's mana pool slowly increases naturally over time. Frequent use of magic can accelerate this increase. A mage's innate talent determines the maximum rate at which their mana can grow.
+- **Mana Pool**: A mage's internal store of mana. It is closely tied to their physical condition. Poor health can cause a mage's mana pool to temporarily or permanently decrease. It replenishes naturally over time, but can be replenished faster through meditation. It can also be replenished through outside sources of mana, such as mana potions.
+- **Effects of Mana**: Mana, as an energy, causes effects when it interacts with the physical world, similar to radiation. It exerts a strain on a mage's body when they cast spells, and too much mana can begin to cause cellular damage. This is known as mana poisoning. Similar to radiation poisoning, a little bit of mana poisoning will heal over time, but too much can cause permanent damage or even death. 
+  - Mages will also begin to mutate over time as they use more and more mana. This can range from minor mutations, such as a change in eye color, to major mutations, such as the growth of extra limbs. These mutations are permanent, and can be passed down to offspring.
+
+### Spellcasting
+
+Mages cast spells by manipulating their mana into various complex shapes, resulting in various magical effects. Spells can draw upon a mage's mana pool, the mana in the environment, or a combination of both. The choice affects casting time, power, and complexity.
+
+- **Self-Drawn Spells**: Spells drawing on the mage's own mana are quick to cast but limited by the mage's mana pool.
+- **Environment-Drawn Spells**: Spells using the mana from the surroundings are more powerful but require more time to cast. They are limited by the amount of mana in the environment.
+- **Combined Spells**: Mixed spells draw on both the mage's mana pool and the environment. They are often the most powerful but also the most challenging to cast.
+
+### Mana in the Environment
+
+The mana in the environment is not evenly distributed, and is often concentrated in certain areas, based of natural formations, the presence of ley lines, and many other factors. In these areas, magical materials and creatures are more likely to be found, and spells that draw on the environment are more powerful. These areas are commonly referred to as nexuses, and are often the sites of magical institutions, the dens of magical creatures, or the remains of magical battles.
+
+### Ancient History of Magic
+
+The Great Continent was once home to a great civilization, perhaps even multiple ones, according to scholars. These ancient societies surpass the current human kingdoms in terms of advancement, and possessed an extraordinary mastery over magic. 
+
+Scholars, upon studying the ruins and artifacts left by this civilization, deduced that their mages possessed far greater control over mana. Their artifacts were incredibly intricate, and the mages of today can only use the simplest of these artifacts. These artifacts also require vast amounts of mana to power, leading scholars to believe that the ambient mana in the environment was much higher in the past.
+
+The laws of magic dictate that mana cannot be created or destroyed. So, scholars believe that the disappearance of this civilization is connected to the decrease in ambient mana in the environment. Little else is known about this civilization, as their remnants are so old that any records have long since decayed, and the artifacts that remain are so complex that deciphering them is a monumental task.
+
+The reason behind their disappearance is also unknown, and is the cause of much speculation, debate and concern among the scholars.
 
 ## Locations
 
@@ -70,7 +110,7 @@ Nestled as the northernmost realm on the Great Continent, the Kingdom of Wychmoo
 #### The White Sovereign
 At the helm of Wychmoor stands the enigmatic King Alaric Thorne, revered by many as the White Sovereign. His reputation extends beyond mere royalty, as he is also blessed with the gift of magic. The White Sovereign possesses healing magics, and wears a white-and-gold cloak as he heals the sick and wounded. He is also a competent ruler, bringing great prosperity to the Kingdom with his decrees, and is well-loved by his subjects.
 
-Outwardly, King Alaric is a pious and conservative ruler. He holds steadfast to the Church, and the Church, in return, has lent unwavering support to his rule. This religious institution has backed his throne. But beneath the facade of devotion lies a secret ambition. The White Sovereign yearns for a Wychmoor that is independent from the Church's clutches. Privately, he believes that the kingdom can thrive without the oppressive religious hierarchy, as it's doctrines have stifled the kingdom's technological and magical progress. He is not against the religion itself, but believes that the Kingdom is overreliant on the Church and its doctrines are too restrictive. 
+Outwardly, King Alaric is a pious and conservative ruler. He holds steadfast to the Church, and the Church, in return, has lent unwavering support to his rule. This religious institution has backed his throne. However, the White Sovereign secretly yearns for an independent Kingdom, free from the clutches of the church. Privately, he believes that the kingdom can thrive without the oppressive religious hierarchy, as it's doctrines have stifled the kingdom's technological and magical progress. He is not against the religion itself, but believes that the Kingdom is overreliant on the Church and its doctrines are too restrictive. 
 
 #### Military Power
 
@@ -83,6 +123,27 @@ The Kingdom also possesses a small group of mages, the Royal Magi, few compared 
 #### Economy & Industry
 
 The kingdom's economy thrives on a rich tapestry of industries. Although its coastline features treacherous cliffs, Wychmoor maintains a fishing industry, albeit on a smaller scale. The agriculture and trade sectors constitute the backbone of the economy, with vast herds of livestock providing sustenance and tradeable animal products. Scattered mines in the northern regions yield vital metals and minerals used for both military and construction purposes. A burgeoning textile industry utilizes abundant wool from local livestock and cotton from the southern reaches, contributing to the kingdom's wealth.
+
+### Ecclesia of Divine Light
+
+**Note**: While there are multiple religions in the Great Continent, the Ecclesiarchy is the most powerful and widespread, and so many people simply refer to it as The Church.
+
+#### Core Beliefs
+
+- **Worship of the Divine Light**: The central tenet of the Church is the worship of the Divine Light. The Divine Light is seen as the source of all magic and the benevolent power that guides and protects humanity.
+- **Monotheistic Faith**: The Church is monotheistic, with the belief in a single, all-powerful deity responsible for creating the world and its magic. The Divine Light is often depicted as a radiant sun or an ethereal, radiant, featureless figure.
+- **Gift of Magic**: The Church teaches that magic is a divine gift for humanity to use. Those that possess it, the mages, have been chosen by the Divine Light to wield its power responsibly. 
+
+#### Organizational Structure
+
+- **High Council**: At the top of the Church hierarchy is the High Council, composed of the highest-ranking clergy members and led by the High Pontiff, who is considered the highest authority in matters of faith and doctrine.
+- **Cardinals and Bishops**: Below the High Council are Cardinals and Bishops who oversee the administration of dioceses and regions. They are responsible for ensuring that the teachings of the Church are upheld in their respective areas.
+- **Inquisitors**: Inquisitors are the Church's internal military enforcers, tasked with maintaining doctrinal purity and rooting out heresy. They are known for their ruthless methods and are feared by many. 
+- **Paladins**: Paladins are the Church's external military warriors, tasked with protecting the Church and its followers from external threats. They are known for their skill in combat and their ability to wield magic. They are often deployed to protect important Church figures, such as Cardinals and Bishops, and to expand the Church's influence in the world.
+
+**Note**: Considering the Church's attitude regarding magic, many of the Church's leaders are mages themselves. The High Pontiff is always a mage, and the Cardinals and Bishops are often mages as well. The Inquisitors and Paladins are also mages, but they are not as powerful as the Cardinals and Bishops.
+
+
 
 ## Relevant Characters
 
